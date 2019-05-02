@@ -1,0 +1,106 @@
+
+#head {
+  background-color: #555555;
+  width: 100%;
+  height: 100px;
+}
+
+.head-top {
+  background-color: #888888;
+  width: 100%;
+  height: 20px;
+  margin-top: 0;
+
+}
+.head-top ul{
+  margin-left: 20%;
+  list-style: none;
+  padding: 0;
+}
+.head-top li{
+  float: left;
+}
+.head-top a:link,a:visited{
+  display:block;
+  width: 50px;
+  color: black;
+  background-color: white;
+  text-align: center;
+  padding: 4px;
+  text-decoration: none;
+}
+.head-top a:hover,a:active{
+  background-color: #cacaca;
+}
+#content {
+  background-color: blue;
+  width: 64%;
+  height: 200px;
+  margin-top: 10px;
+  margin-left: 20%;
+  display: inline-block;
+}
+
+#vertical-navigation {
+  width: 5%;
+  height: 200px;
+  display: inline-block;
+  margin-top: 10px;
+  background-color: blueviolet;
+}
+
+.navigation-bar {
+  background-color: black;
+  margin-top: 0;
+  width: 100%;
+  height: 20px;
+}
+
+.content-detail {
+  background-color: orange;
+  width: 100%;
+  height: 100px;
+}
+
+#footer {
+  width: 100%;
+  background-color: antiquewhite;
+
+  text-align: center;
+  margin-top: 10px;
+}
+
+.footer-top {
+  background-color: burlywood;
+  margin-top: 10px;
+  margin-left: 20%;
+  width: 64%;
+}
+.bili{
+  width: 30%;
+  height: 100px;
+  background-color: brown;
+  display: inline-block;
+}
+.delivery{
+  width: 30%;
+  height: 100px;
+  background-color: darkblue;
+  display: inline-block;
+}
+.download-way{
+  width: 30%;
+  height: 100px;
+  background-color: #8b0ba5;
+  display: inline-block;
+}
+.footer-bottom{
+  background-color: chartreuse;
+  width: 64%;
+  text-align: center;
+  height: 100px;
+  margin-top: 10px;
+  margin-left: 20%;
+}
+
+
